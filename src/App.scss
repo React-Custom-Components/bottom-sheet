@@ -1,0 +1,15 @@
+
+
+.mainContainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  span {
+    display: block;
+    font-size: max(3vw, 23px);
+    text-align: center;
+    padding: 5px;
+  }
+}
