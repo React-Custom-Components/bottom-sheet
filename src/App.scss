@@ -6,7 +6,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  span {
+  position: relative;
+  .title {
     display: block;
     font-size: max(3vw, 23px);
     text-align: center;
